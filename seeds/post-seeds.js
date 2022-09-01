@@ -2,8 +2,7 @@ const { Post } = require("../models");
 
 const postsData = [
   {
-    title:
-      "Test-driven development: Avoiding implementation mistakes",
+    title: "Test-driven development: Avoiding implementation mistakes",
     text: "Many software teams have implemented test-driven development (TDD) to reduce rework and its associated costs. The rationale: The earlier you catch a problem in the software development lifecycle (SDLC), the less expensive it is to fix.Here’s a rundown of the benefits, drawbacks, barriers to TDD adoption and common implementation mistakes. The premise of TDD: You write the test before you write the code With TDD, testing is at the forefront of people’s minds during product architecture, design and development. Software developers define up front what and how to test. What does the feature (code) need to do successfully to be considered complete? What tests does it need to pass to be called good?Developers write these tests one at a time, starting with an easy case and building complexity from there, before coding the feature. This enables developers to make sure every possible scenario is covered. The feature must pass the old and new tests before a developer commits it to the code base. What are the benefits of adopting TDD?",
     user_id: 1,
   },
