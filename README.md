@@ -42,7 +42,7 @@
 
   ## Demo
 
-  - Please follow the [link]() to visit the page.
+  - Please follow the [link](https://the-tech-blognews.herokuapp.com/) to visit the page.
   
 
   ## Screenshot 
